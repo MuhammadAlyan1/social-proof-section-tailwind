@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/social-proof-section-tailwind/static/css/main.7aeef322.css",
+    "main.js": "/social-proof-section-tailwind/static/js/main.46d1ddff.js",
+    "index.html": "/social-proof-section-tailwind/index.html",
+    "static/media/icon-star.svg": "/social-proof-section-tailwind/static/media/icon-star.2d8e7b7cb342bc812e9df51d276eaa78.svg",
+    "main.7aeef322.css.map": "/social-proof-section-tailwind/static/css/main.7aeef322.css.map",
+    "main.46d1ddff.js.map": "/social-proof-section-tailwind/static/js/main.46d1ddff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aeef322.css",
+    "static/js/main.46d1ddff.js"
+  ]
+}
