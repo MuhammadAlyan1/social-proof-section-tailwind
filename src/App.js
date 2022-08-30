@@ -1,4 +1,3 @@
-import './App.css';
 import Reviews from './components/reviews';
 
 function App() {
